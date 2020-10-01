@@ -1,2 +1,4 @@
 secret/secrets.yaml
 secret/secret.yaml
+**/secret.yaml
+**/**/secret.yaml
